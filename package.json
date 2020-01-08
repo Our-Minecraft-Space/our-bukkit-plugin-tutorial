@@ -1,0 +1,14 @@
+{
+  "name": "<project-name>",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "markcafe.mjs",
+  "scripts": {
+    "generate": "node markcafe.mjs"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "juice": "^6.0.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-container": "^2.0.0"
+  }
+}
